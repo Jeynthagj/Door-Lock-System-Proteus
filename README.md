@@ -1,3 +1,9 @@
+Door-Lock-System-Protues
+
+Proteus simulation of an Arduino-based Digital Door Lock. Uses a 4x3 keypad for PIN entry to control a servo motor lock. Features LCD status updates and an LED alarm for invalid attempts. Demonstrates embedded C++ logic.
+
+
+
 Arduino-Based Digital Door Lock System
 Project Overview
 This project is an AI-Ready Electronic Security System designed to simulate a secure entry point. It uses a 4x3 Matrix Keypad for user input, an Arduino Uno for logic processing, and provides both visual feedback (LCD/LED) and physical actuation (Servo Motor).
